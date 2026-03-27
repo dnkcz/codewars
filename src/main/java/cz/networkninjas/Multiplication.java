@@ -16,6 +16,7 @@ public class Multiplication {
         return multiplication(this.number, this.level);
     }
 
+    //16,1
     private int multiplication(int number, int level) {
         System.out.println("Number:" + number + " level:" + level);
         int multipliedNumber = getMultiplicationOfNumbers(number);
