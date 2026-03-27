@@ -2,7 +2,6 @@ package cz.networkninjas;
 
 public class GetSum {
     public int getSum(int a, int b) {
-        // find starting point
         int start = Math.min(a, b);
         int finish = a == start ? b : a;
 
