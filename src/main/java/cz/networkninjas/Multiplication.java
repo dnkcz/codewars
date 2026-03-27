@@ -27,7 +27,7 @@ public class Multiplication {
 
     private int getMultiplicationOfNumbers(int number) {
         int multiplication = 1;
-        while (number  > 0) {
+        while (number > 0) {
             multiplication *= number % 10;
             number = number / 10;
         }
