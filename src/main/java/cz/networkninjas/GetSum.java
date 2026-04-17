@@ -20,8 +20,9 @@ public class GetSum {
 /*
 *
 * Given two integers a and b, which can be positive or negative, find the sum of all the integers between and including them and return it. If the two numbers are equal return a or b.
-
-Note: a and b are not ordered!
+* Dána dvě celá čísla a a b (kladná nebo záporná). Vrať součet všech celých čísel mezi nimi (včetně). Pokud jsou si rovná, vrať a nebo b.
+*
+* Note: a and b are not ordered! (a a b nejsou seřazeny!)
 
 Examples (a, b) --> output (explanation)
 (1, 0) --> 1 (1 + 0 = 1)
